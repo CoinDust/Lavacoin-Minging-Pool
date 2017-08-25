@@ -7,10 +7,15 @@ Follow the instructions from b.	https://github.com/zone117x/node-cryptonote-pool
 When you get to the section that deals with 'npm update' you have to change the version of vm to v0.10.48.
 Follow these instructions:
         a.	rm -rf node_modules/
+        
         b.	npm update
+        
         c.	nvm install v0.10.48’
+        
         d.	npm install cryptonote-util
+        
         e.	npm install bignum
+        
         
     That should process without any errors, at least as tested on Ubuntu Linux x64 16.04 LTS.
     
