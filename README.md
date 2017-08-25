@@ -1,4 +1,4 @@
-# Lavacoin-Minging-Pool
+# Lavacoin-Mining-Pool
 A Pool for Mining Lavacoin
 
 Will have to do the following until I figure out how to fix it.  I'm not a programmer, much respect, but I'm trying.
@@ -9,9 +9,9 @@ Follow these instructions:
 
         a.	rm -rf node_modules/
         
-        b.	npm update
-        
-        c.	nvm install v0.10.48’
+        b.	nvm install v0.10.48
+        
+        c.	npm update
         
         d.	npm install cryptonote-util
         
