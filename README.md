@@ -1,5 +1,6 @@
 # Lavacoin-Minging-Pool
 A Pool for Mining Lavacoin
+
 Will have to do the following until I figure out how to fix it.  I'm not a programmer, much respect, but I'm trying.
 
 Follow the instructions from b.	https://github.com/zone117x/node-cryptonote-pool
