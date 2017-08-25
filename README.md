@@ -16,9 +16,11 @@ Follow these instructions:
         c.	npm update
         
         
-        d.	npm install cryptonote-util
-        
-        
+        d.	npm install cryptonote-util (have to load new one         
+                https://github.com/fancoder/node-cryptonote-util.git
+                
+        
+ 
         e.	npm install bignum
         
         
