@@ -6,6 +6,7 @@ Will have to do the following until I figure out how to fix it.  I'm not a progr
 Follow the instructions from b.	https://github.com/zone117x/node-cryptonote-pool
 When you get to the section that deals with 'npm update' you have to change the version of vm to v0.10.48.
 Follow these instructions:
+
         a.	rm -rf node_modules/
         
         b.	npm update
