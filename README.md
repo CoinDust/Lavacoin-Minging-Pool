@@ -9,13 +9,18 @@ Follow these instructions:
 
         a.	rm -rf node_modules/
         
+        
         b.	nvm install v0.10.48
+        
         
         c.	npm update
         
+        
         d.	npm install cryptonote-util
         
+        
         e.	npm install bignum
+        
         
         
     That should process without any errors, at least as tested on Ubuntu Linux x64 16.04 LTS.
