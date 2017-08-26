@@ -25,5 +25,5 @@ Follow these instructions:
         
         
         
-    That should process without any errors, at least as tested on Ubuntu Linux x64 16.04 LTS.
+    That should process without any errors, at least as tested on Ubuntu Linux x64 16.04 LTS. But, althouogh it compiles fine, there are s     runtime errors.  Usually concerning parsing the block. Still trying to figure out how to resolve that issue.
     
